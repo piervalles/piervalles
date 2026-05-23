@@ -58,9 +58,3 @@ SIGUE SOÑANDO, HAZLO EN GRANDE, HAZLO INOLVIDABLE, PORQUE LO IMPORTANTE AL FINA
 <a href="mailto:pierovalles.poet812@aleeas.com">
   <img src="https://img.shields.io/badge/Email-PIEROVALLES.POET812@ALEEAS.COM-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br/>
-
-<a href="TU_ENLACE_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-APOYA_MI_TRABAJO-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
