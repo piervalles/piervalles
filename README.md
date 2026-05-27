@@ -56,5 +56,5 @@ SIGUE SOÑANDO, HAZLO EN GRANDE, HAZLO INOLVIDABLE, PORQUE LO IMPORTANTE AL FINA
 ## Contacto y apoyo
 
 <a href="mailto:pierovalles.poet812@aleeas.com">
-  <img src="https://img.shields.io/badge/Email-PIEROVALLES.POET812@ALEEAS.COM-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-PIEROVALLES.CONTACT@GMAIL.COM-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
