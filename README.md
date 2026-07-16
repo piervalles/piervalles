@@ -38,7 +38,7 @@ Me especializo en el desarrollo de aplicaciones web y de escritorio con arquitec
 ## Encuéntrame en:
 
 <a href="https://x.com/iampierovalles" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-IAMPIEROVALLES-151515?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-SOYPIEROVALLES-151515?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 <a href="https://bsky.app/profile/pierovalles.bsky.social" target="_blank">
   <img src="https://img.shields.io/badge/Bluesky-PIEROVALLES-006aff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
